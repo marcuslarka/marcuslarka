@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcuslarka
-- 👀 I’m interested in JavaScript, RPA, Scripting
+- 👀 I’m interested in C#, Python, Scripting
 - 🌱 I’m currently learning all of the above...
 - 💞️ I’m looking to collaborate on learning more
 - 📫 How to reach me here if that is possible?
